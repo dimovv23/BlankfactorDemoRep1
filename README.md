@@ -1,4 +1,4 @@
 # BlankfactorDemoRep1
 First demo blankfactor repository
-first commit
+new commit
 change
